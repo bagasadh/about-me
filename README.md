@@ -5,7 +5,7 @@
 <img src="assets/stack-card.svg" alt="Tech stack" />
 
 <img src="assets/project-card-2.svg" alt="Project" /><br>
-<a href="https://github.com/bagasadh/LokaLoka">LokaLoka</a> | <a href="https://github.com/bagasadh/ReHub">ReHub</a>
+<tt><a href="https://github.com/bagasadh/LokaLoka">LokaLoka</a> | <a href="https://github.com/bagasadh/ReHub">ReHub</a>&nbsp;&nbsp;&nbsp;</tt>
 
 <img src="assets/contact-card.svg" alt="Contact" />
 
