@@ -1,16 +1,8 @@
 <h1 align="center">About me</h1>
 
-<p align="center">Hi, I am Bagas, an IT student at Gunadarma University (class of 2024). I am curious about all kinds of workflows, including AI, and I enjoy design and interactive web.</p>
+<p align="center">Hi, I am Bagas, an IT student at Gunadarma University (class of 2024). I am curious about all kinds of workflows, including AI, and I have tried a wide range of AI models and types. I also enjoy design and interactive web, and I have built websites for my course presentations.</p>
 
-<h2 align="center">What I am into</h2>
-
-<p align="center">
-<b>AI:</b> tried a wide range of AI models and types, and interested in AI workflows<br>
-<b>Homelab:</b> set up my own homelab as a personal cloud<br>
-<b>Network tools:</b> AdGuard Home and Pi-hole<br>
-<b>Linux and Windows:</b> tried many Linux distros, and debloated Windows as far as possible without modded builds<br>
-<b>Web:</b> built websites for my course presentations, interested in interactive web
-</p>
+<p align="center">I like tinkering with my own setups too. I have built a homelab as a personal cloud, used AdGuard Home and Pi-hole, tried many Linux distros, and debloated Windows as far as possible without using modded builds.</p>
 
 <h2 align="center">Tech stack</h2>
 
