@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/about-card.svg" alt="About me" />
+<img src="assets/about-card.svg?v=2" alt="About me" />
 
 <img src="assets/stack-card.svg" alt="Tech stack" />
 
