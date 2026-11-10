@@ -7,8 +7,8 @@
 <img src="assets/project-head.svg" alt="Project" align="top" />
 <table>
 <tr>
-<td><a href="https://github.com/bagasadh/LokaLoka"><img src="assets/project-left.svg" alt="LokaLoka" /></a></td>
-<td><a href="https://github.com/bagasadh/ReHub"><img src="assets/project-right.svg" alt="ReHub" /></a></td>
+<td><a href="https://github.com/bagasadh/LokaLoka"><img src="assets/project-left.svg" alt="LokaLoka" width="252" /></a></td>
+<td><a href="https://github.com/bagasadh/ReHub"><img src="assets/project-right.svg" alt="ReHub" width="252" /></a></td>
 </tr>
 </table>
 
