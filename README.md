@@ -4,6 +4,8 @@
 
 <img src="assets/stack-card.svg" alt="Tech stack" />
 
-<img src="assets/contact-card.svg" alt="Contact" />
+<a href="mailto:mbagasadhyaksa12@gmail.com"><img src="assets/contact-email.svg" alt="Email" /></a>
+
+<a href="https://www.instagram.com/bgasadyksa"><img src="assets/contact-ig.svg" alt="Instagram" /></a>
 
 </div>
